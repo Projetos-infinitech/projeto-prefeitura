@@ -1,5 +1,5 @@
 ---
-name: Template- refactor
+name: Template-refactor
 about: Template de refatoração
 title: ''
 labels: ''
